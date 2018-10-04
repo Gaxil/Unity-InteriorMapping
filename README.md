@@ -25,6 +25,6 @@ The shader requires :
 Optional :
 *Decoration atlas with 4 walls random feature/poster/whatever you want ... 
 
-I hope you'll enjoy it, have fun!
-
 A samples scene is provided with several variations of the shader.
+
+I hope you'll enjoy it, have fun!
